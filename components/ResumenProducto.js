@@ -1,4 +1,4 @@
-import Image from "next/Image"
+import Image from "next/image"
 import { formatearDinero } from "/helpers"
 import useSuper from "../hooks/useSuper"
 
